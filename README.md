@@ -1,4 +1,4 @@
-# git_stuff
+# git_stuff pro max
 learn git
 
 
